@@ -1,0 +1,6 @@
+{
+  "appId": "com.bookshelf.reader",
+  "appName": "Bookshelf",
+  "webDir": "www",
+  "plugins": { "LocalNotifications": { "smallIcon": "ic_stat_book" } }
+}
